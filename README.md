@@ -8,4 +8,4 @@ An analysis of bias towards domestic mammals versus wild mammals in WordNet. Par
 * requests
 
 ## Note
-WikiScraper.py likely doesn't work anymore. It was very specific to the structure of the wikipedia pages as they existed at the time of analyses and it's likely that these pages have been updated. The lists of nodes are also based on what existed on BabelNet, Wikipedia, and WordNet at the time of analyses. If any of these were updated, then the lists will likely contain  different numbers of animals. 
+WikiScraper.py likely doesn't work anymore. It was very specific to the structure of the wikipedia pages as they existed at the time of analyses and it's likely that these pages have been updated. I've stored it here so that the method I used at the time is preserved. The lists of nodes are also based on what existed on BabelNet, Wikipedia, and WordNet at the time of analyses. If any of these were updated, then the lists will likely contain  different numbers of animals. 
